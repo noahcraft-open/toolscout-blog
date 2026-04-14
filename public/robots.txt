@@ -1,0 +1,9 @@
+# Robots.txt for ToolScout
+# https://toolscout.example.com
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+Sitemap: https://toolscout.example.com/sitemap.xml
