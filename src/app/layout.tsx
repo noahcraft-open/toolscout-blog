@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -66,12 +67,17 @@ export default function RootLayout({
     <html lang="en" className={inter.className}>
       <head>
         <meta name="google-site-verification" content="bLrgi5ATeT4JPaaOD2GpJcB_Z8oeSJJ68KWczPUx1B4" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465424458531466" crossOrigin="anonymous"></script>
       </head>
       <body className="min-h-screen flex flex-col bg-gray-50">
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465424458531466"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
