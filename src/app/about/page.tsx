@@ -108,10 +108,10 @@ export default function AboutPage() {
         <p className="text-gray-700">
           Email us at:{" "}
           <a
-            href="mailto:hello@toolscout.example.com"
+            href="mailto:syushin3154@gmail.com"
             className="text-blue-600 hover:text-blue-800"
           >
-            hello@toolscout.example.com
+            syushin3154@gmail.com
           </a>
         </p>
       </article>

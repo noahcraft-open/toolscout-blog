@@ -1,68 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://toolscout.example.com/</loc>
+    <loc>https://toolscout-blog.vercel.app/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/about</loc>
+    <loc>https://toolscout-blog.vercel.app/about</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/category/invoicing</loc>
+    <loc>https://toolscout-blog.vercel.app/category/developer-tools</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/category/legal</loc>
+    <loc>https://toolscout-blog.vercel.app/category/invoicing</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/category/seo</loc>
+    <loc>https://toolscout-blog.vercel.app/category/legal</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/category/productivity</loc>
+    <loc>https://toolscout-blog.vercel.app/category/productivity</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/blog/best-free-invoice-generators</loc>
+    <loc>https://toolscout-blog.vercel.app/category/security</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/category/seo</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-base64-encoders</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-color-converters</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-hash-generators</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-invoice-generators</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/blog/best-free-privacy-policy-generators</loc>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-json-formatters</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-lorem-ipsum-generators</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-online-games-no-download</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-password-generators</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-privacy-policy-generators</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/blog/ultimate-guide-seo-meta-tags</loc>
-    <lastmod>2026-04-05</lastmod>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-qr-code-generators</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/blog/free-tools-every-freelancer-needs</loc>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-typing-speed-tests</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-unix-timestamp-converters</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/best-free-uuid-generators</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/free-tools-every-freelancer-needs</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://toolscout.example.com/blog/how-to-create-robots-txt-file</loc>
+    <loc>https://toolscout-blog.vercel.app/blog/how-to-create-robots-txt-file</loc>
     <lastmod>2026-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toolscout-blog.vercel.app/blog/ultimate-guide-seo-meta-tags</loc>
+    <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

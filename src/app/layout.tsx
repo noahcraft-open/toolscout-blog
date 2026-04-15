@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://toolscout.example.com",
+    url: "https://toolscout-blog.vercel.app",
     siteName: "ToolScout",
     title: "ToolScout - Free & Best Tools for Creators",
     description:
@@ -52,6 +52,9 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    google: "bLrgi5ATeT4JPaaOD2GpJcB_Z8oeSJJ68KWczPUx1B4",
+  },
 };
 
 export default function RootLayout({
@@ -61,6 +64,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={inter.className}>
+      <head>
+        <meta name="google-site-verification" content="bLrgi5ATeT4JPaaOD2GpJcB_Z8oeSJJ68KWczPUx1B4" />
+      </head>
       <body className="min-h-screen flex flex-col bg-gray-50">
         <Header />
         <main className="flex-1">{children}</main>

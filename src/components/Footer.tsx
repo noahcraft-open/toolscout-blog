@@ -63,7 +63,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="https://invoicecraft.example.com"
+                  href="https://invoicecraft-psi.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -73,7 +73,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://policycraft.example.com"
+                  href="https://policycraft-blond.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -83,7 +83,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://metataggen.example.com"
+                  href="https://metatag-generator-flame.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -93,7 +93,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://robotstxtgen.example.com"
+                  href="https://robotstxt-generator-ten.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"

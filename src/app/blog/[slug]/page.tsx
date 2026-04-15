@@ -63,7 +63,7 @@ export default async function BlogPost({ params }: Props) {
 
   return (
     <>
-      <ArticleJsonLd post={post} url="https://toolscout.example.com" />
+      <ArticleJsonLd post={post} url="https://toolscout-blog.vercel.app" />
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Breadcrumb */}
         <nav className="mb-8 text-sm">
