@@ -66,6 +66,7 @@ export default function RootLayout({
     <html lang="en" className={inter.className}>
       <head>
         <meta name="google-site-verification" content="bLrgi5ATeT4JPaaOD2GpJcB_Z8oeSJJ68KWczPUx1B4" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5465424458531466" crossOrigin="anonymous"></script>
       </head>
       <body className="min-h-screen flex flex-col bg-gray-50">
         <Header />
